@@ -1,4 +1,4 @@
-# Projeto Fullstack
+# Projeto devstage
 
 Este repositório contém tanto o frontend quanto o backend da aplicação. Abaixo, estão as instruções para configurar e rodar ambos os ambientes.
 
